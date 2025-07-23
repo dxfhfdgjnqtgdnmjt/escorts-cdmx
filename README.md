@@ -56,14 +56,14 @@ Configura el host virtual y apunta el DocumentRoot a /public.
 ## 4. Configuración (.env)
 
 ```dotenv
-APP_NAME="Amigos CDMX"
+APP_NAME="Escorts CDMX"
 APP_ENV=production
 APP_URL=https://tu-dominio.com
 
 DB_CONNECTION=mysql
 DB_HOST=localhost
 DB_PORT=3306
-DB_DATABASE=amigos_cdmx
+DB_DATABASE=escorts_cdmx
 DB_USERNAME=usuario
 DB_PASSWORD=contraseña
 
@@ -140,7 +140,7 @@ El modelo Service define categorías de actividades:
 ### 6.3 Plataformas y canales de promoción
 
 En el front‑end se listan enlaces a plataformas donde se anuncian perfiles:
-- Sitio propio: Conoce más detalles en Amigos en Ciudad de México
+- Sitio propio: Conoce más detalles en Escorts en Ciudad de México
 - Marketplaces de experiencias
 - Redes sociales: Instagram, TikTok, Facebook (#RentAFriendCDMX)
 - Comunidades (Reddit, foros específicos)
@@ -180,7 +180,7 @@ Jornada completa (extendida)	6–8 h	$2 600–$5 200	Acompañamiento conti
 
 * Cifras ilustrativas, confirma siempre con la persona o agencia.
 
-Para comparar ofertas entre diferentes Amigos en Ciudad de México, activa el comparador dentro del panel /pricing.
+Para comparar ofertas entre diferentes Escorts en Ciudad de México, activa el comparador dentro del panel /pricing.
 
 ### Formas de pago
 
